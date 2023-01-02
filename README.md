@@ -1,7 +1,7 @@
 # PSH---AHMS
-P - Powering
-S - Stem
-H - Hacks
+P - Powering /n
+S - Stem /n
+H - Hacks /n
 
 A - Advance
 H - Health 
