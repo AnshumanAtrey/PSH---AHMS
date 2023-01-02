@@ -1,9 +1,9 @@
 # PSH---AHMS
-P - Powering /n
-S - Stem /n
-H - Hacks /n
+P - Powering <br>
+S - Stem <br>
+H - Hacks <br>
 
-A - Advance
-H - Health 
-M - Monitoring 
-S - System
+A - Advance <br> 
+H - Health <br> 
+M - Monitoring <br> 
+S - System <br> 
